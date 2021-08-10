@@ -111,7 +111,7 @@ details[open] summary {
     cursor: pointer;
     outline-color: #324c63;
   }
-}*/
+}
 
 @media (max-width: 600px) {
   .chronologia-wrapper > .chronologia-detail-wrapper:nth-child(even) {
@@ -136,4 +136,4 @@ details[open] summary {
     cursor: pointer;
     outline-color: #324c63;
   }
-}
+}*/

@@ -17,7 +17,7 @@
 .chronologia-detail-wrapper {
   width: 100%;
 
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 
   display: flex;
 }
@@ -88,7 +88,7 @@ details[open] summary {
   border-radius: 20px;
 }
 
-@media (max-width: 800px) {
+/*@media (max-width: 800px) {
   .chronologia-wrapper > .chronologia-detail-wrapper:nth-child(even) {
     justify-content: flex-end;
 
@@ -111,7 +111,7 @@ details[open] summary {
     cursor: pointer;
     outline-color: #324c63;
   }
-}
+}*/
 
 @media (max-width: 600px) {
   .chronologia-wrapper > .chronologia-detail-wrapper:nth-child(even) {
